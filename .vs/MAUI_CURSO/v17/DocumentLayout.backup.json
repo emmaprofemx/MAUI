@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\Proyectos_moviles\\MAUI\\MAUI_CURSO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D63BF8B-C20F-4675-BB85-867EF39691B2}|MAUI_CURSO\\MAUI_CURSO.csproj|d:\\proyectos_moviles\\maui\\maui_curso\\maui_curso\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9D63BF8B-C20F-4675-BB85-867EF39691B2}|MAUI_CURSO\\MAUI_CURSO.csproj|solutionrelative:maui_curso\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{9D63BF8B-C20F-4675-BB85-867EF39691B2}|MAUI_CURSO\\MAUI_CURSO.csproj|d:\\proyectos_moviles\\maui\\maui_curso\\maui_curso\\flyoutpagedemo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9D63BF8B-C20F-4675-BB85-867EF39691B2}|MAUI_CURSO\\MAUI_CURSO.csproj|solutionrelative:maui_curso\\flyoutpagedemo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D63BF8B-C20F-4675-BB85-867EF39691B2}|MAUI_CURSO\\MAUI_CURSO.csproj|d:\\proyectos_moviles\\maui\\maui_curso\\maui_curso\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D63BF8B-C20F-4675-BB85-867EF39691B2}|MAUI_CURSO\\MAUI_CURSO.csproj|solutionrelative:maui_curso\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D63BF8B-C20F-4675-BB85-867EF39691B2}|MAUI_CURSO\\MAUI_CURSO.csproj|d:\\proyectos_moviles\\maui\\maui_curso\\maui_curso\\flyoutpagedemo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D63BF8B-C20F-4675-BB85-867EF39691B2}|MAUI_CURSO\\MAUI_CURSO.csproj|solutionrelative:maui_curso\\flyoutpagedemo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D63BF8B-C20F-4675-BB85-867EF39691B2}|MAUI_CURSO\\MAUI_CURSO.csproj|d:\\proyectos_moviles\\maui\\maui_curso\\maui_curso\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D63BF8B-C20F-4675-BB85-867EF39691B2}|MAUI_CURSO\\MAUI_CURSO.csproj|solutionrelative:maui_curso\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D63BF8B-C20F-4675-BB85-867EF39691B2}|MAUI_CURSO\\MAUI_CURSO.csproj|d:\\proyectos_moviles\\maui\\maui_curso\\maui_curso\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9D63BF8B-C20F-4675-BB85-867EF39691B2}|MAUI_CURSO\\MAUI_CURSO.csproj|solutionrelative:maui_curso\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D63BF8B-C20F-4675-BB85-867EF39691B2}|MAUI_CURSO\\MAUI_CURSO.csproj|d:\\proyectos_moviles\\maui\\maui_curso\\maui_curso\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9D63BF8B-C20F-4675-BB85-867EF39691B2}|MAUI_CURSO\\MAUI_CURSO.csproj|solutionrelative:maui_curso\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D63BF8B-C20F-4675-BB85-867EF39691B2}|MAUI_CURSO\\MAUI_CURSO.csproj|d:\\proyectos_moviles\\maui\\maui_curso\\maui_curso\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -26,19 +34,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "D:\\Proyectos_moviles\\MAUI\\MAUI_CURSO\\MAUI_CURSO\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "MAUI_CURSO\\MainPage.xaml.cs",
-              "ToolTip": "D:\\Proyectos_moviles\\MAUI\\MAUI_CURSO\\MAUI_CURSO\\MainPage.xaml.cs",
-              "RelativeToolTip": "MAUI_CURSO\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Title": "FlyoutPageDemo.xaml.cs",
+              "DocumentMoniker": "D:\\Proyectos_moviles\\MAUI\\MAUI_CURSO\\MAUI_CURSO\\FlyoutPageDemo.xaml.cs",
+              "RelativeDocumentMoniker": "MAUI_CURSO\\FlyoutPageDemo.xaml.cs",
+              "ToolTip": "D:\\Proyectos_moviles\\MAUI\\MAUI_CURSO\\MAUI_CURSO\\FlyoutPageDemo.xaml.cs",
+              "RelativeToolTip": "MAUI_CURSO\\FlyoutPageDemo.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T06:59:15.117Z",
+              "WhenOpened": "2025-05-27T07:13:35.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FlyoutPageDemo.xaml",
+              "DocumentMoniker": "D:\\Proyectos_moviles\\MAUI\\MAUI_CURSO\\MAUI_CURSO\\FlyoutPageDemo.xaml",
+              "RelativeDocumentMoniker": "MAUI_CURSO\\FlyoutPageDemo.xaml",
+              "ToolTip": "D:\\Proyectos_moviles\\MAUI\\MAUI_CURSO\\MAUI_CURSO\\FlyoutPageDemo.xaml",
+              "RelativeToolTip": "MAUI_CURSO\\FlyoutPageDemo.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-27T07:13:33.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\Proyectos_moviles\\MAUI\\MAUI_CURSO\\MAUI_CURSO\\AppShell.xaml",
+              "RelativeDocumentMoniker": "MAUI_CURSO\\AppShell.xaml",
+              "ToolTip": "D:\\Proyectos_moviles\\MAUI\\MAUI_CURSO\\MAUI_CURSO\\AppShell.xaml",
+              "RelativeToolTip": "MAUI_CURSO\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-27T07:11:33.587Z",
               "EditorCaption": ""
             },
             {
@@ -49,14 +83,14 @@
               "RelativeDocumentMoniker": "MAUI_CURSO\\App.xaml.cs",
               "ToolTip": "D:\\Proyectos_moviles\\MAUI\\MAUI_CURSO\\MAUI_CURSO\\App.xaml.cs",
               "RelativeToolTip": "MAUI_CURSO\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T06:58:48.704Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\Proyectos_moviles\\MAUI\\MAUI_CURSO\\MAUI_CURSO\\App.xaml",
               "RelativeDocumentMoniker": "MAUI_CURSO\\App.xaml",
@@ -69,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "D:\\Proyectos_moviles\\MAUI\\MAUI_CURSO\\MAUI_CURSO\\MainPage.xaml",
               "RelativeDocumentMoniker": "MAUI_CURSO\\MainPage.xaml",

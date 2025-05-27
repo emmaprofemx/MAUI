@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MAUI_CURSO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+89faae48be982485319e021f5057d6410244f8d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+6cd45d2eab914b195f1b509d0b52c78745dc89ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("MAUI_CURSO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MAUI_CURSO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
